@@ -1,1 +1,3 @@
 git config --global user.name 
+
+git rm --cached frontend/filename 
